@@ -6,7 +6,7 @@ A classroom exercise practicing angular directives, scope, models, and controlle
 ###Project published at: 
 ---
 
-[Refactored Calculator](https://trrapp12-ironyard.github.io/angular-app-exercise/)
+[angular-app-exercise](https://trrapp12-ironyard.github.io/angular-app-exercise/)
 <br/>
 <br/>
 ###More Information:
