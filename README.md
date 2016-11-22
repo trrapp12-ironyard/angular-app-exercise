@@ -3,6 +3,12 @@
 
 A classroom exercise practicing angular directives, scope, models, and controllers.
 
+- [x] Angular
+- [x] directives
+- [x] $scope
+- [x] models
+- [x] controllers
+
 ###Project published at: 
 ---
 
