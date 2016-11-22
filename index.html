@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html ng-app="app">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sample Directive</title>
+    <script src="./angular.min.js"></script>
+    <script src="./app.js"></script>
+  </head>
+  <body ng-controller= "SuperDuckCtrl as ducks">
+
+
+    <div class="">
+      <h2> Attribute</h2>
+      <div super-duck="" duckname="Daddy Duck">
+
+      </div>
+    </div>
+
+    <div class="">
+      <h2> Class Name</h2>
+      <p>
+        Drink to the person who can gert this working with duckname.
+      </p>
+      <div class = "super-duck" duckname="DaffyDuck">
+
+      </div>
+    </div>
+
+    <div class="">
+      <h2> Element</h2>
+      <super-duck duckname='Drooly Duck'></super-duck>
+    </div>
+
+    <div class="">
+      <h2> Comment</h2>
+
+      </div>
+    </div>
+
+  </body>
+</html>
